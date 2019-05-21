@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/Atrox/sync-dotenv/releases/download/v0.1.0/sync-dotenv_0.1.0_Windows_i386.zip",
+            "bin": [
+                "sync-dotenv.exe"
+            ],
+            "hash": "d9546213a5edbbe09d012e1c4354dd9f151db1d48766e1449fc19c1ffb68b123"
+        },
+        "64bit": {
+            "url": "https://github.com/Atrox/sync-dotenv/releases/download/v0.1.0/sync-dotenv_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "sync-dotenv.exe"
+            ],
+            "hash": "28b2c287a78fd0c03e228fb087c64a7b8f592916a669fbd92afe95c39ffbaecf"
+        }
+    },
+    "homepage": "https://atrox.dev",
+    "license": "MIT",
+    "description": "sync-dotenv helps you to keep your .env.example in sync with your .env file."
+}
