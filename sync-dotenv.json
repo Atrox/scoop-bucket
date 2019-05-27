@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Atrox/sync-dotenv/releases/download/v0.1.1/sync-dotenv_0.1.1_Windows_i386.zip",
+            "url": "https://github.com/Atrox/sync-dotenv/releases/download/v0.1.2/sync-dotenv_0.1.2_Windows_i386.zip",
             "bin": [
                 "sync-dotenv.exe"
             ],
-            "hash": "d63fbe0195d86ea86f2650e01bd5eede6528ee284e9ca6f2dea2082fc5ae0ed9"
+            "hash": "9ad2efedad7bc0237531730a5c2141e8eed14cd5b19c9d4e58efc36a61e63910"
         },
         "64bit": {
-            "url": "https://github.com/Atrox/sync-dotenv/releases/download/v0.1.1/sync-dotenv_0.1.1_Windows_x86_64.zip",
+            "url": "https://github.com/Atrox/sync-dotenv/releases/download/v0.1.2/sync-dotenv_0.1.2_Windows_x86_64.zip",
             "bin": [
                 "sync-dotenv.exe"
             ],
-            "hash": "7b34faa55047cc8fead6d6518da083ca672ce05454086df4e3a2f190829e2688"
+            "hash": "68089a52d47ee3ec0914ca51d204e6064574c6477ae552f569ba970af24204eb"
         }
     },
     "homepage": "https://github.com/atrox/sync-dotenv",
